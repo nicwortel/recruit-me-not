@@ -57,10 +57,10 @@ complaint.
 [If regulations are violated, the ACM can impose a fine up to € 450.000][Rijksoverheid].
 
 [Art. 11.7 Telecommunicatiewet]: http://wetten.overheid.nl/BWBR0009950/2017-03-10#Hoofdstuk11_Paragraaf11.1_Artikel11.7
-[Bel-me-niet]: https://www.bel-me-niet.nl/README.md
-[1]: http://www.recruitingroundtable.nl/2009/09/15/opta-regels-voor-telemarketing-gelden-ook-voor-recruiters-maar%e2%80%a6/README.md
-[2]: http://www.recruitingroundtable.nl/2009/09/16/toelichting-opta-regels-telemarketing-recruiters/README.md
-[3]: http://www.flexnieuws.nl/2009/11/04/werving-kandidaten-bel-me-niet-register-mag-niet/README.md
+[Bel-me-niet]: https://www.bel-me-niet.nl/
+[1]: http://www.recruitingroundtable.nl/2009/09/15/opta-regels-voor-telemarketing-gelden-ook-voor-recruiters-maar%e2%80%a6/
+[2]: http://www.recruitingroundtable.nl/2009/09/16/toelichting-opta-regels-telemarketing-recruiters/
+[3]: http://www.flexnieuws.nl/2009/11/04/werving-kandidaten-bel-me-niet-register-mag-niet/
 [4]: http://www.managersonline.nl/nieuws/8811/bedrijf-riskeert-boete-bij-benaderen-sollicitant.html
 [OPTA]: https://en.wikipedia.org/wiki/Onafhankelijke_Post_en_Telecommunicatie_Autoriteit
 [ConsuWijzer]: https://www.consuwijzer.nl/klacht-indienen-bij-consuwijzer
